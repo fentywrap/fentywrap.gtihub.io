@@ -1,0 +1,37 @@
+body{
+    overflow-x: hidden;
+}
+.showchat{
+    font-size: 25px;
+}
+
+.trial{
+    
+    position: relative;
+    left: 50px;
+   
+}
+
+.sendmsg{
+    position: relative;
+    left: 900px;
+    
+}
+
+.msg{
+    position: relative;
+    right: 800px;
+    height: 30px;
+    width: 1050px;
+}
+
+.send{
+    background-color: rgb(56, 255, 115);
+    width: 150px;
+    height: 50px;
+    position: relative;
+    right: 200px;
+    top: auto;
+    border: 2px solid transparent;
+    border-radius: 10px;
+}
